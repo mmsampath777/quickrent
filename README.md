@@ -68,13 +68,7 @@ Follow these steps to set up and run the project locally:
 5. Open the app in your browser at `http://localhost:3000`.
 
 
-## Screenshots
 
-
-
-
-markdown
-Copy code
 ## Screenshots
 
 ### Hero Banner
