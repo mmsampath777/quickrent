@@ -78,13 +78,13 @@ Copy code
 ## Screenshots
 
 ### Hero Banner
-![Hero Banner Screenshot](./public/images/header.jpg)
+![Hero Banner Screenshot](images/header.jpg)
 
 ### Gadget Listing
-![Features Section Screenshot](./public/images/gadgets.jpg)
+![Features Section Screenshot](images/gadgets.jpg)
 
 ### Contact
-![Gadget Listing Screenshot](./public/images/contact.jpg)
+![Gadget Listing Screenshot](images/contact.jpg)
 
 
 
